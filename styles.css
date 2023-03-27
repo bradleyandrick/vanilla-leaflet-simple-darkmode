@@ -1,0 +1,17 @@
+body,
+html {
+  padding: 0px;
+  margin: 0px;
+  height: 100%;
+  width: 100%;
+}
+
+#map {
+  height: 100%;
+  width: 100%;
+}
+
+/* add filters to map tiles for dark mode */
+.map-tiles {
+  filter: brightness(1.125) invert(1) contrast(0.9) hue-rotate(0deg) saturate(0);
+}
