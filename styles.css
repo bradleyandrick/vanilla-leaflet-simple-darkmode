@@ -12,6 +12,6 @@ html {
 }
 
 /* add filters to map tiles for dark mode */
-.map-tiles {
+/* .map-tiles {
   filter: brightness(1.125) invert(1) contrast(0.9) hue-rotate(0deg) saturate(0);
-}
+} */
