@@ -1,6 +1,6 @@
 var map = L.map('map', {
-  center: [37.5407, -77.436],
-  zoom: 10,
+  center: [38, -98],
+  zoom: 4,
 });
 
 var tiles = new L.tileLayer(
